@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GargiChaturvedi
+- 👀 I’m interested in coding, dancing, acting, studying, learning, 3D printing and reading.
+- 🌱 I’m currently learning JavaScript and I will be learning HTML, CSS, Python and other languages from a course which I opted for.
+- 💞️ I’m looking to collaborate on my games, projects but not yet because I am still learning.
+- 📫 How to reach me:
+- 📧 Mail id: gargi.chaturvedi@outlook.com
